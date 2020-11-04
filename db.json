@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed Network Card on 007",
+      "attention": false,
+      "tech": "Sara Smith",
+      "date": "2020-11-03T11:35:45.470Z"
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-11-03T09:31:00.678Z",
+      "id": 3
+    },
+    {
+      "message": "Hard drive Failed in WorkStation 002",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-11-03T09:58:31.653Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
